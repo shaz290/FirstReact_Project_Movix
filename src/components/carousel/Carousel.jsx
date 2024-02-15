@@ -8,7 +8,7 @@ import { useSelector } from "react-redux";
 import dayjs from "dayjs";
 import Genres from "../genres/Genres"
 
-import ContentWrapper from "../contentWrapper/ContentWrapper";
+import ContentWrapper from "../contentWrapper/ContentWrapper.jsx";
 import Img from "../lazyLoadImage/Img";
 import PosterFallback from "../../assets/no-poster.png";
 import CircleRating from "../circleRating/CircleRating"

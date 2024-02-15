@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ContentWrapper from '../../../components/contentWrapper/ContentWrapper';
+import ContentWrapper from '../../../components/contentWrapper/ContentWrapper.jsx';
 import SwitchTabs from '../../../components/switchTabs/SwitchTabs';
 import useFetch from '../../../hooks/useFetch';
 import Carousel from '../../../components/carousel/Carousel';
